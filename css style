@@ -1,0 +1,88 @@
+/* homepage */
+
+position: relative;
+width: 1440px;
+height: 860px;
+
+background: #FFFFFF;
+
+
+/* menu */
+
+position: relative;
+width: 1440px;
+height: 1227px;
+
+background: #FFFFFF;
+
+
+/* advertising menu */
+
+position: relative;
+width: 1440px;
+height: 1618px;
+
+background: #FFFFFF;
+
+
+/* brooks */
+
+position: relative;
+width: 1440px;
+height: 4018px;
+
+background: #FFFFFF;
+
+
+/* ancestry */
+
+position: relative;
+width: 1440px;
+height: 1856px;
+
+background: #FFFFFF;
+
+
+/* bluebikes */
+
+position: relative;
+width: 1440px;
+height: 5834px;
+
+background: #FFFFFF;
+
+
+/* annies */
+
+position: relative;
+width: 1440px;
+height: 3288px;
+
+background: #FFFFFF;
+
+
+/* tinder */
+
+position: relative;
+width: 1440px;
+height: 1895px;
+
+background: #FFFFFF;
+
+
+/* design menu */
+
+position: relative;
+width: 1440px;
+height: 1418px;
+
+background: #FFFFFF;
+
+
+/* social media design */
+
+position: relative;
+width: 1440px;
+height: 4097px;
+
+background: #FFFFFF;
